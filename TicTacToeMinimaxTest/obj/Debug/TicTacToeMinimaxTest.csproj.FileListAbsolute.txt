@@ -1,0 +1,14 @@
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\obj\Debug\TicTacToeMinimaxTest.csprojResolveAssemblyReference.cache
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\Images\back.png
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\Images\kolko.png
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\Images\kolko_m.png
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\Images\krzyzyk.png
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\Images\krzyzyk_m.png
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\Images\newgame.png
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\Images\nic.png
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\TicTacToeMinimaxTest.dll
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\TicTacToeMinimaxTest.pdb
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\TicTacToeMinimax.exe
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\bin\Debug\TicTacToeMinimax.pdb
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\obj\Debug\TicTacToeMinimaxTest.dll
+J:\PRG\cpp\vs_workspace\WPF\TicTacToeMinimax\TicTacToeMinimaxTest\obj\Debug\TicTacToeMinimaxTest.pdb
